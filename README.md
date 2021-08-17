@@ -17,7 +17,7 @@
 
 
 To get a local copy up and running follow these simple example steps.
-1) Enter `git clone git@github.com:roshan-bajgain/Hello-Microverse.git` into terminal
+1) Enter `git clone git@github.com:roshan-bajgain/Hello-Microverse2.git` into terminal
 
 2) Open in browser to view site
 
