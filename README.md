@@ -1,7 +1,7 @@
 # Hello-Microverse2
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello Microverse
+# Hello-Microverse2
 
 > This is my first project in Microverse and the objective for this project to use linter, github flow,documentation of repo. I created Hello-Microverse2 repo, cloned into local machine and implemented those tools.
 
